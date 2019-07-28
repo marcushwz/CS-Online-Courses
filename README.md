@@ -12,3 +12,8 @@ CS50 is a 10 weeks course, where it starts off with Dr David Malan introducing c
 The link to the course can be found here [Machine-Learning](https://www.coursera.org/learn/machine-learning)
 
 This is a 11 weeks course, introducing what is machine learning and how it works. This course deals with a lot of equations so having an okay understanding of algebra made me struggle "less" to complete the course. Basically, this course taught me on how machine learning can be applied to both supervised and unsupervised problems. Dr Andrew Ng also taught me on how to select suitable algorithms to solve a particular problem by evaluating the algorithms based on suitable criterias. There are quizzes and programming assignments at the end of each week where the quizzes test us on the understanding of the lecture and the programming assignments test us on applying what we have learned to solve problem. Some of the assignments are predicting housing prices, image recognition, anomaly detection and recommender system.
+
+### 3. Data Structures & Algorithms in Python
+The link to the course can be found here [Data Structures & Algorithms in Python](https://classroom.udacity.com/courses/ud513)
+
+I have taken this course to prepare myself for my very first software interview at one of the largest e-commerce company. I have learn different types of data structures and algorithms and also the big O notation of them from this course. It is not an in depth course, but it touches most of the important topics. Further study have to be done to really master data structures and algorithms. This course also provides a 7 steps practice for an actual technical interview for which I found pretty useful for me.
